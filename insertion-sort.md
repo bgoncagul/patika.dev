@@ -1,4 +1,5 @@
 1.1)Insertion Sort Aşamaları
+
 1.[22,27,16,2,18,6] -> Insertion Sort
 
 2. [22,27,16,2,18,6] -> mevcut en küçük elemanı bulmak için dizi taranır. en küçük eleman ile ilk sıradaki elemanın yeri değiştirilir.	
