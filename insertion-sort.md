@@ -14,8 +14,7 @@ n+(n-1)+(n-2)+(n-3)...+1(1 den n'e kadar ardışık sayıların toplam formülü
 Best Case: [2,27,16,22,18,6] O(n)  
 Average Case:  [2,6,16,18,22,27] O(n)  
 Worst Case: [22,27,16,18,6,2] O(n^2)  
-## 4)   
-Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.[22,27,16,18,6,2]  
+4) Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.[22,27,16,18,6,2]  
 ---
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.   
 1.adım ->[2,3,5,8,7,9,4,15,6]  
