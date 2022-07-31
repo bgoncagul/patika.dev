@@ -11,7 +11,6 @@
 5. [2,6,16,22,18,27] -> dizinin 3. elemanı olması gerektiği yerde olduğu için 4. elemandan başlayarak en küçük eleman bulunur ve 4. eleman ile yer değiştirilir.
  
 6. [2,6,16,18,22,27] -> insertion sort tamamlanmıştır.
-
 1.2)Big O Gösterimi
 n+(n-1)+(n-2)+(n-3)...+1(1 den n'e kadar ardışık sayıların toplam formülü) n*(n+1)/2 =n^2+n/2 dominant fonksiyon x^2 olduğunda,O(n^2)dir.
 
@@ -31,3 +30,4 @@ Worst Case: [22,27,16,18,6,2] O(n^2)
 2. adım ->[2,3,4,8,7,9,5,15,6]
 3. adım ->[2,3,4,5,7,9,8,15,6]
 4. adım ->[2,3,4,5,6,9,8,15,7]
+dsfdgfhglklişkkhjgg
