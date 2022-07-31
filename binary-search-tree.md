@@ -1,1 +1,1 @@
-# patika.dev
+![](https://www.hizliresim.com/6no3bmj)
